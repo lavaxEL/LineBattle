@@ -1,0 +1,49 @@
+level 0, Уровень 0
+-
+level 1, Уровень 1
+zombie, skeleton, skeleton
+zombie
+skeleton, skeleton
+zombie, skeleton
+-
+level 2, Уровень 2
+skeleton, skeleton, skeleton
+zombie, skeleton
+skeleton
+zombie
+-
+level 3, Уровень 3
+zombie, skeleton
+zombie
+skeleton
+-
+level 4, Уровень 4
+zombie, skeleton, skeleton
+zombie, zombie
+-
+level 5, Уровень 5
+zombie
+skeleton, skeleton
+zombie, skeleton
+-
+level 6, Уровень 6
+skeleton, zombie, skeleton, skeleton
+-
+level 7, Уровень 7
+skeleton
+skeleton, skeleton, zombie
+skeleton
+skeleton, zombie, skeleton
+-
+level 8, Уровень 8
+skeleton, skeleton, zombie, zombie, skeleton, skeleton
+zombie
+skeleton, skeleton, skeleton
+zombie
+-
+level 9, Уровень 9
+zombie, zombie, zombie, zombie, zombie, zombie, skeleton, skeleton
+zombie
+skeleton
+skeleton
+-
